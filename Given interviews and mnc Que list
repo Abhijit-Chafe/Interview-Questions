@@ -1,0 +1,159 @@
+##################### Ntt data suhas ##############           
+
+Df -ht got stuck
+DNS intermideate
+ Lvm
+ Xfs
+ Nfs config file
+ Swapiness
+ Aws
+ Pacemaker
+ Cluster
+ Flavours of linux
+
+##################### Ntt data Abhijit ##############           
+
+Server is slow
+Nfs port no
+Sftp
+Nagios working
+Aws
+Cluster
+Set Cronjobs
+
+##################### Ntt data Saurabh ############## 
+
+##################### Ntt data Rohit ############## 
+
+
+##################### Neysa Saurabh ############## 
+
+##################### Neysa Rohit ############## 
+
+
+
+##################### Social 91  Abhijit ############## 
+
+Not able to ssh in other system 
+
+Load troubleshooting 
+
+Script writing to list all the file system
+
+How to assign static ip address
+
+#####################################################################################################################
+
+(Himank)
+Root named server
+Authoritative named server
+Recursive dns resolver
+How will you check the used ram of two days earlier
+SMTP
+udp and TCP
+
+(data admin)
+How to update centos 7 to 8 __(os Upgradation)
+if master failed to replicate data to slaves (troubleshooting)
+How can we Set mysql replication
+
+
+(Abhijit)
+Nagios port and version we are using
+Udp
+/var/log/msg
+Rsync vs scp
+vmstat
+
+hardening bonding
+patching
+
+
+#########################################################################################################################
+
+Kernel panic
+Rescue
+Smapt configuration 
+Nfs
+Types of dns 
+Karenel panic 
+Karnel rescue mode 
+TCP udp 
+SMTP nfs sftp 
+Lvm raid
+
+#####################################################################################################################
+
+How to update centos 7 to 8 __(os Upgradation)
+if master failed to replicate data to slaves (troubleshooting)
+How can we Set mysql replication
+
+
+##################################################################################################################
+TCS Linux Admin Questions
+    1. Multipath -i ll
+    2. If a disk has four drives and needs to be replaced only one without hampering production. How??
+    3. Patching
+    4. How to roll back from CentOS 8 to CentOS 7??
+    5. Samba port no.
+    6. NFS. If you are not able to mount NFS partition what has to be checked??
+    7. How to setup LDAP??
+    8. How to set up CentOS??
+    9. Difference between XFS and ext4
+    10. What is RAID 1/10
+    11. What is DCDR
+    12. Difference between DNS and DHCP
+    13. What is active-active and active-passive
+    14. How to install CentOS 7 on 10 servers
+    15. What is HA??
+NTT Data Interview Questions
+    16. Boot process
+    17. How to set a cron job to send reports at 12am
+    18. How to set up SFTP??
+    19. If a server is unreachable, what will you check and do??
+Datamatics Interview Questions
+    20. Tracerout
+    21. Bottleneck
+    22. If I have deleted a file and still the space does not come up, what will you do?
+    23. If not able to create a file, why?
+    24. If I have sent a request to MySQL, will my request first go to slave or master?
+    25. Difference between system memory and swap memory
+Accenture
+    26. LVM striping. Increase and reduce
+    27. NFS setup
+    28. Stripebeat
+    29. Red Hat cluster
+    30. How to find out UUID
+    31. Fstab entry
+    32. Ports FTP and NFS
+    33. Files present in /yum/repos.d/
+    34. If yum is not working, then what will you do?
+    35. Vmotion
+    36. HTTP/HTTPS
+    37. LDAP
+Neysa AI
+    38. TCP and UDP
+    39. What is VPC
+    40. LVM – how to create it
+    41. If I am not able to see my PV and VG, what should I do?
+    42. If my system is working slowly, what should I do? Any tools used?
+    43. If I don't have any data of the last two days and my server went down, how will you find out the root cause?
+    44. Kernel panic
+    45. RAID 10
+    46. Difference between session and process??
+    47. /var/log/messages – what do you see for a memory issue?
+    48. Difference between rsync and scp
+    49. File system
+    50. Disk space
+    51. DNS
+    52. RDNS
+    53. LVM
+    54. SMTP
+    55. Kernel panic
+    56. SFTP
+    57. Question 20: obscured by the phone interface in the screenshot
+    58. Root name server
+    59. Authoritative named server
+Notes on Screenshot Readability
+The first uploaded screenshot duplicates the NTT Data, Datamatics, and beginning of Accenture content. The later screenshots provide the complete visible Accenture list, the Neysa AI list, and the TCS Linux admin list.
+A few lines near the bottom of the Neysa AI screenshot are covered by the phone toolbar. They have not been guessed; unreadable entries are marked above.
